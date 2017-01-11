@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\exploded-aar\com.dlazaro66.qrcodereaderview\qrcodereaderview\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cd3f0aeca8f8e53d60cad6597e69d5d753fb0360">
+        <dex dex="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\transforms\dex\debug\folders\1000\10\com.dlazaro66.qrcodereaderview-qrcodereaderview-1.0.0_19b94e4ab8d8ac5ec26475764e35820bdb0fb6bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.0_173903461fc962559c9192abc2335641cdb86c3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_f6eeac3f5e1d5e1a657aa22dcd8c58ea1d223a97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AS\ASSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_6ca5f73dbaf36dae3c670688345f21559d7d46a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7da82c6e57c6e8513f68002b6c7dda36c2802f31">
+        <dex dex="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3757ecd9a1012497ac7e6ab959fea8edc251fe44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d5b2a09d211cb51db8a96548d6377ae0eac325e">
+        <dex dex="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1981fe9916cd31963b322de37c903b5dd60b859a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\exploded-aar\com.dlazaro66.qrcodereaderview\qrcodereaderview\1.0.0\jars\libs\core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3c7e89b5124329cddba83bcf7c26c1c636c16b8">
+        <dex dex="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\transforms\dex\debug\folders\1000\10\core_9d2c70755d7d49c85021d2b8e1208b7e9d8a5a2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_b2dffca194c9df50e92348d7d163e87d3c034ffc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_bde5bdd29a69879468cb14318c7be908d10bb4c0\classes.dex" />
+    </item>
+
+</items>

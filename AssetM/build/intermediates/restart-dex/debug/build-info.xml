@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1660140579186"
+    token="5186552573219133943"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="523" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="318" />
+    <task
+        name="verifier"
+        duration="70" />
+
+    <artifact
+        location="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\outputs\apk\AssetM-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1660140579186"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\user\Desktop\QR-ReaderExample\AssetM\build\outputs\apk\AssetM-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
